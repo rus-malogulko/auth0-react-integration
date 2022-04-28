@@ -19,3 +19,5 @@ npm start
 The application runs by on port `4040` to mitigate conflicting with other client applications you may be running.
 
 Visit [`http://localhost:4040/`](http://localhost:4040/) to access the starter application.
+
+This example is based on [official react-express tutorial](https://auth0.com/blog/complete-guide-to-react-user-authentication/).
