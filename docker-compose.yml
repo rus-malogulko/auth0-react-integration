@@ -1,0 +1,7 @@
+services:
+  server:
+    ports:
+      - "6060:6060"
+    build:
+      context: ./
+      dockerfile: ./Dockerfile.server
